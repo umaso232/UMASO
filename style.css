@@ -1,0 +1,63 @@
+h1.topheader{
+    color: rgb(0, 208, 255);
+    text-align: center;
+}
+<!--body-->
+body{
+    background-image: url(images.jpg);
+    background-size: cover;
+}
+
+.btn-submit {
+    margin-left: 20px;
+    padding-left: 20px;
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 6ox;
+    padding-top : 2px 
+    
+}
+
+fieldset {
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 60%; 
+    border-radius: 6px; 
+    background-color: rgb(112, 231, 106);
+
+    
+}
+legend  {
+    background-color: brown;
+    padding: 10px;
+    border: 10px; 
+    border-width: 0px;
+}
+p {
+    text-align: center;
+    font-size: large;
+    color: blue;
+    border: 10px; ;
+
+} 
+  h1 {
+    text-align: center;
+    color: blueviolet;
+  }
+  input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-width: 0px;
+    
+ }
+.btn-submit {
+    background-color: brown;
+}
+.btn-submit{
+    background-color: blue;
+}
